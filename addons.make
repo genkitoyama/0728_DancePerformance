@@ -1,0 +1,6 @@
+ofxGui
+ofxOsc
+ofxPostGlitch
+ofxStateMachine
+ofxTween
+ofxTweenzor
